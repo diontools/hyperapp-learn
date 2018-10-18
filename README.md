@@ -18,4 +18,4 @@
 * Manage GlobalEvents
   * Window events
 * Custom event stream
-  * ex: Timer(setTimeout)
+  * ex: Timer(setInterval)
